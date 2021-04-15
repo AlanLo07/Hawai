@@ -34,6 +34,13 @@
     background: #1cdb4983;
     color: #fff;
 }
+#place-time{
+    background: #212529;
+    color: #fff;
+}
+#place-time img{
+    max-width: 100%;
+}
 #footer {
     background: linear-gradient(90deg, #60DB56, #258F1B);
 }
